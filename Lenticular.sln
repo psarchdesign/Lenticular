@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lenticular", "Lenticular.csproj", "{3CD5C49C-9620-44CF-8252-ECAC4EAE1EAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CD5C49C-9620-44CF-8252-ECAC4EAE1EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD5C49C-9620-44CF-8252-ECAC4EAE1EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD5C49C-9620-44CF-8252-ECAC4EAE1EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD5C49C-9620-44CF-8252-ECAC4EAE1EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A83980-3E13-44C2-8C68-03A705BFBD96}
+	EndGlobalSection
+EndGlobal
